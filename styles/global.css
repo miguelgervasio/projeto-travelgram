@@ -14,7 +14,7 @@
   --text-color-secondary: #6c6c6c;
 
   --font-family: "Poppins", sans-serif;
-  --text: 16px/150% var(--font-family)
+  --text: 16px/150% var(--font-family);
   --text-lg: bold 32px/125% var(--font-family);
   --text-md: 14px/170% var(--font-family);
   --text-sm: 12px/170% var(--font-family);
@@ -34,7 +34,7 @@ a {
 a:hover {
   color: var(--brand-color);
   text-decoration: underline;
-  transition: .1s;
+  transition: 0.1s;
 }
 
 .container {
